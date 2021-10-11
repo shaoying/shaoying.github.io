@@ -1,5 +1,5 @@
-# Shaoying_Protfolio
-Example coding portfolio
+# Projects
+Machine Learning Projects, iOS App Development Projects
 
 # [Project 1: Banking Customer Churn Prediction and Analysis](https://github.com/shaoying/ML_Supervised_Learning_Project) 
 * Developed algorithms to predict customer churn probability based on labeled data via Python programming
