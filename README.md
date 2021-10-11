@@ -7,6 +7,8 @@ Machine Learning Projects, iOS App Development Projects
 * Trained supervised machine learning models including Logistic Regression, Random Forest, and K-Nearest Neighbors, and applied regularization with optimal parameters to overcome overfitting
 * Evaluated model performance and analyzed feature importance to identify top factors that influenced the results
 
+<img src="images/image_chart.PNG" />
+
 # [Project 2: The Complete iOS App Development](https://github.com/shaoying/swift-code) 
 * Dicee
 * Magic 8 Ball
